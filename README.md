@@ -227,11 +227,11 @@ Pull requests welcome!
 If you use this in academic work:
 
 ```
-@misc{trafficassistant2025,
-  title={Tamil Nadu Traffic Rules Assistant using RAG},
-  author={Madhan S},
-  year={2025},
-  howpublished={\url{https://github.com/madhans476/traffic_rules_assistant}}
+@misc{trafficassistant2026,
+  title={California Traffic Rules Assistant using RAG},
+  author={Srimi},
+  year={2026},
+  howpublished={}}
 }
 ```
 
@@ -239,7 +239,7 @@ If you use this in academic work:
 
 ## Contact
 
-**Maintainer:** Madhan S
-- **Email:** [mail](mailto:22bds036@iiitdwd.ac.in)
+**Maintainer:** Srini 
+- **Email:** [mail](mailto:icchar@gmail.com)
 - **GitHub:** [@madhans476](https://github.com/madhans476)
 - **LinkedIn** [@madhans17](https://www.linkedin.com/in/madhan-s17/)
