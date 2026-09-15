@@ -12,9 +12,9 @@ traffic_rules_assistant/
 ├── data/
 |   ├── processed/
 |   |    ├── faiss_index.idx
-|   |    ├── TN_traffic_rules.json
-|   |    └── TN_traffic_rules.txt
-|   └──  TN Traffic rules.pdf
+|   |    ├── CA_traffic_rules.json
+|   |    └── CA_traffic_rules.txt
+|   └──  CArules.pdf
 ├── src/
 │   ├── chunking.py 
 │   ├── embedding.py 
@@ -213,7 +213,7 @@ Pull requests welcome!
 
 ## Changelog
 
-### v1.0.0 (June 2025)
+### v1.0.0 (Sep 2026)
 
 * Initial public release
 * Added full pipeline: Extraction, Chunking, Embedding, Retrieval, Generation
@@ -241,5 +241,6 @@ If you use this in academic work:
 
 **Maintainer:** Srini 
 - **Email:** [mail](mailto:icchar@gmail.com)
+  
 - **GitHub:** [@madhans476](https://github.com/madhans476)
 - **LinkedIn** [@madhans17](https://www.linkedin.com/in/madhan-s17/)
